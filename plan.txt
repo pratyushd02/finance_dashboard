@@ -1,0 +1,23 @@
+1) 
+Take amount of investment, time period
+
+2)
+Predict the earning using different methods
+-Stock
+-Mutual Fund
+-Savings
+-ETFs
+Use Top 5 stocks based upon the a day befores prices or best growth and stability 
+
+3) Design a dashboard to provide to user
+
+4) Use airflow to train model daily. Models and ai api to be used for prediction
+Train 5 model daily based upon the top models
+Take 2-3 mutual funds
+Take 2-3 ETFs
+
+
+****
+create dashboard and only for common mutual fund first and then upgrade the project
+
+https://finance.yahoo.com/quote/WWWFX/history/?period1=1702857600&period2=1734495419&filter=history
