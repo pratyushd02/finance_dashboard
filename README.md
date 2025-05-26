@@ -10,20 +10,6 @@ A comprehensive financial analytics dashboard designed to process, analyze, and 
 - **Visualization**: Interactive dashboard created using Power BI for data visualization.
 - **Logging**: Comprehensive logging to track the data processing and modeling pipeline.
 
-## Project Structure
-
-finance_dashboard/
-├── datasets/               # Contains raw and processed financial datasets
-├── models/                 # Saved machine learning models
-├── download_data.ipynb     # Notebook to download financial data
-├── preprocessing.ipynb     # Data cleaning and preprocessing steps
-├── model.ipynb             # Model training and evaluation
-├── dashboard.pbix          # Power BI dashboard file
-├── Screenshot.png          # Screenshot of the dashboard
-├── logs.log                # Log file for tracking processes
-└── plan.txt                # Project planning and notes
-
-
 ## Getting Started
 
 ### Prerequisites
